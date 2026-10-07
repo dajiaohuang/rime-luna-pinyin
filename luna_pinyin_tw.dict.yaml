@@ -1,0 +1,18 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Taiwan Mandarin phrase readings for luna_pinyin_tw.
+#
+---
+name: luna_pinyin_tw
+version: "0.1"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+...
+
+混淆 hun yao
+暫停 zhan ting
+一艘船 yi sao chuan
+我和你 wo han ni
