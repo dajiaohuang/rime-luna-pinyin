@@ -19,4 +19,5 @@ schema:
 
 translator:
   dictionary: luna_pinyin_tw
+  user_dict: luna_pinyin
   prism: luna_pinyin_tw
