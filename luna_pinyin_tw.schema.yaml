@@ -18,6 +18,4 @@ schema:
     朙月拼音，輸出臺灣字形。
 
 translator:
-  dictionary: luna_pinyin_tw
-  user_dict: luna_pinyin
   prism: luna_pinyin_tw
